@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\src\flutter\.pub-cache\hosted\pub.flutter-io.cn\shared_preferences-0.5.12\android\src\main\assets"/><source path="D:\webrtc\flutter-webrtc-demo\build\shared_preferences\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\src\flutter\.pub-cache\hosted\pub.flutter-io.cn\shared_preferences-0.5.12\android\src\release\assets"/></dataSet></merger>

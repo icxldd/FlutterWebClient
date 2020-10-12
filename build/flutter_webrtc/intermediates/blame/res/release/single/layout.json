@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\webrtc\\flutter-webrtc-demo\\build\\flutter_webrtc\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Leon\\.gradle\\caches\\transforms-2\\files-2.1\\53a674562ca6f3c302b6456a79d7f94c\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\webrtc\\flutter-webrtc-demo\\build\\flutter_webrtc\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Leon\\.gradle\\caches\\transforms-2\\files-2.1\\53a674562ca6f3c302b6456a79d7f94c\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\webrtc\\flutter-webrtc-demo\\build\\flutter_webrtc\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Leon\\.gradle\\caches\\transforms-2\\files-2.1\\53a674562ca6f3c302b6456a79d7f94c\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\webrtc\\flutter-webrtc-demo\\build\\flutter_webrtc\\intermediates\\res\\merged\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\Leon\\.gradle\\caches\\transforms-2\\files-2.1\\53a674562ca6f3c302b6456a79d7f94c\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\webrtc\\flutter-webrtc-demo\\build\\flutter_webrtc\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Leon\\.gradle\\caches\\transforms-2\\files-2.1\\53a674562ca6f3c302b6456a79d7f94c\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\webrtc\\flutter-webrtc-demo\\build\\flutter_webrtc\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Leon\\.gradle\\caches\\transforms-2\\files-2.1\\53a674562ca6f3c302b6456a79d7f94c\\res\\layout\\notification_action_tombstone.xml"
+    }
+]

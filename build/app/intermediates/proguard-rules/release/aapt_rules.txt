@@ -1,0 +1,6 @@
+# Referenced at D:\webrtc\flutter-webrtc-demo\build\app\intermediates\manifests\full\release\AndroidManifest.xml:40
+-keep class com.cloudwebrtc.flutterwebrtcdemo.MainActivity { <init>(...); }
+
+# Referenced at D:\webrtc\flutter-webrtc-demo\build\app\intermediates\manifests\full\release\AndroidManifest.xml:35
+-keep class io.flutter.app.FlutterApplication { <init>(...); }
+

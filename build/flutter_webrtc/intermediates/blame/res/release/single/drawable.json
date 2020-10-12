@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\webrtc\\flutter-webrtc-demo\\build\\flutter_webrtc\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Leon\\.gradle\\caches\\transforms-2\\files-2.1\\53a674562ca6f3c302b6456a79d7f94c\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\webrtc\\flutter-webrtc-demo\\build\\flutter_webrtc\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Leon\\.gradle\\caches\\transforms-2\\files-2.1\\53a674562ca6f3c302b6456a79d7f94c\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\webrtc\\flutter-webrtc-demo\\build\\flutter_webrtc\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Leon\\.gradle\\caches\\transforms-2\\files-2.1\\53a674562ca6f3c302b6456a79d7f94c\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\webrtc\\flutter-webrtc-demo\\build\\flutter_webrtc\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Leon\\.gradle\\caches\\transforms-2\\files-2.1\\53a674562ca6f3c302b6456a79d7f94c\\res\\drawable\\notification_icon_background.xml"
+    }
+]

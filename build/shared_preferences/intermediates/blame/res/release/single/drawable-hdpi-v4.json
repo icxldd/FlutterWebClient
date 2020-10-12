@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\webrtc\\flutter-webrtc-demo\\build\\shared_preferences\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Leon\\.gradle\\caches\\transforms-2\\files-2.1\\53a674562ca6f3c302b6456a79d7f94c\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\webrtc\\flutter-webrtc-demo\\build\\shared_preferences\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Leon\\.gradle\\caches\\transforms-2\\files-2.1\\53a674562ca6f3c302b6456a79d7f94c\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\webrtc\\flutter-webrtc-demo\\build\\shared_preferences\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Leon\\.gradle\\caches\\transforms-2\\files-2.1\\53a674562ca6f3c302b6456a79d7f94c\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\webrtc\\flutter-webrtc-demo\\build\\shared_preferences\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Leon\\.gradle\\caches\\transforms-2\\files-2.1\\53a674562ca6f3c302b6456a79d7f94c\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\webrtc\\flutter-webrtc-demo\\build\\shared_preferences\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Leon\\.gradle\\caches\\transforms-2\\files-2.1\\53a674562ca6f3c302b6456a79d7f94c\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    }
+]

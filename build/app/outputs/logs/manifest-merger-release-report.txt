@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:1:1-48:12
+MERGED from [:shared_preferences] D:\webrtc\flutter-webrtc-demo\build\shared_preferences\intermediates\manifests\full\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] D:\webrtc\flutter-webrtc-demo\build\path_provider\intermediates\manifests\full\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_webrtc] D:\webrtc\flutter-webrtc-demo\build\flutter_webrtc\intermediates\manifests\full\release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\16f35b1cd46acb583276a59f6ce335ba\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\4bc98db61457c32be06106d2f29af31b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\edbaa43acf5e79b1c87e5b09603508d3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\3ded79739166dc27934c6aae8e49586c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\6bee6eeb081873f01d88287125559ead\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\53a674562ca6f3c302b6456a79d7f94c\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\acb90a44754c2703170d87e173c1b928\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\b01853a400e6e9f9e66b37948b623ee4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\768c994a957a229870001c903a340af1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\c2b8a1c7286e06305c4dde1d00ab3ed2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\bf5b4284d8a71139187862ea3f52d763\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\4ea67b4dd5bd568d0df23c206d04956d\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\448a811d1151067fa563dacbdc735d4c\AndroidManifest.xml:17:1-22:12
+MERGED from [org.webrtc:google-webrtc:1.0.30039] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\155cd4607db0a826515c3192ad7df7e5\AndroidManifest.xml:11:1-14:12
+INJECTED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:2:5-48
+		INJECTED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:1:1-48:12
+		INJECTED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:1:1-48:12
+		INJECTED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:8:22-64
+uses-feature#android.hardware.camera
+ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:9:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:10:19-67
+uses-permission#android.permission.CAMERA
+ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:12:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:17:22-77
+application
+ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:24:5-47:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\53a674562ca6f3c302b6456a79d7f94c\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\53a674562ca6f3c302b6456a79d7f94c\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\4ea67b4dd5bd568d0df23c206d04956d\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\4ea67b4dd5bd568d0df23c206d04956d\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\53a674562ca6f3c302b6456a79d7f94c\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:26:9-44
+	android:icon
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:27:9-43
+	android:name
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:25:9-57
+activity#com.cloudwebrtc.flutterwebrtcdemo.MainActivity
+ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:28:9-46:20
+	android:launchMode
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:30:13-43
+	android:hardwareAccelerated
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:33:13-47
+	android:windowSoftInputMode
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:34:13-55
+	android:configChanges
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:32:13-137
+	android:theme
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:29:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:39:13-41:40
+	android:value
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:41:17-37
+	android:name
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:40:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:42:13-45:29
+action#android.intent.action.MAIN
+ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:43:17-68
+	android:name
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:44:17-76
+	android:name
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml:44:27-74
+uses-sdk
+INJECTED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences] D:\webrtc\flutter-webrtc-demo\build\shared_preferences\intermediates\manifests\full\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] D:\webrtc\flutter-webrtc-demo\build\shared_preferences\intermediates\manifests\full\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] D:\webrtc\flutter-webrtc-demo\build\path_provider\intermediates\manifests\full\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] D:\webrtc\flutter-webrtc-demo\build\path_provider\intermediates\manifests\full\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webrtc] D:\webrtc\flutter-webrtc-demo\build\flutter_webrtc\intermediates\manifests\full\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webrtc] D:\webrtc\flutter-webrtc-demo\build\flutter_webrtc\intermediates\manifests\full\release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\16f35b1cd46acb583276a59f6ce335ba\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\16f35b1cd46acb583276a59f6ce335ba\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\4bc98db61457c32be06106d2f29af31b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\4bc98db61457c32be06106d2f29af31b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\edbaa43acf5e79b1c87e5b09603508d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\edbaa43acf5e79b1c87e5b09603508d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\3ded79739166dc27934c6aae8e49586c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\3ded79739166dc27934c6aae8e49586c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\6bee6eeb081873f01d88287125559ead\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\6bee6eeb081873f01d88287125559ead\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\53a674562ca6f3c302b6456a79d7f94c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\53a674562ca6f3c302b6456a79d7f94c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\acb90a44754c2703170d87e173c1b928\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\acb90a44754c2703170d87e173c1b928\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\b01853a400e6e9f9e66b37948b623ee4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\b01853a400e6e9f9e66b37948b623ee4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\768c994a957a229870001c903a340af1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\768c994a957a229870001c903a340af1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\c2b8a1c7286e06305c4dde1d00ab3ed2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\c2b8a1c7286e06305c4dde1d00ab3ed2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\bf5b4284d8a71139187862ea3f52d763\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\bf5b4284d8a71139187862ea3f52d763\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\4ea67b4dd5bd568d0df23c206d04956d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\4ea67b4dd5bd568d0df23c206d04956d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\448a811d1151067fa563dacbdc735d4c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\448a811d1151067fa563dacbdc735d4c\AndroidManifest.xml:20:5-44
+MERGED from [org.webrtc:google-webrtc:1.0.30039] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\155cd4607db0a826515c3192ad7df7e5\AndroidManifest.xml:13:3-72
+MERGED from [org.webrtc:google-webrtc:1.0.30039] C:\Users\Leon\.gradle\caches\transforms-2\files-2.1\155cd4607db0a826515c3192ad7df7e5\AndroidManifest.xml:13:3-72
+INJECTED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\webrtc\flutter-webrtc-demo\android\app\src\main\AndroidManifest.xml
